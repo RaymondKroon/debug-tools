@@ -1,4 +1,4 @@
-(defproject raymond/debug-tools "0.1.3"
+(defproject raymond/debug-tools "0.1.4"
   :description "Clojure debug tools"
   :url "https://github.com/RaymondKroon/debug-tools"
   :license {:name "Eclipse Public License"

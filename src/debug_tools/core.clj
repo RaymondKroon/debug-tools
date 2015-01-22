@@ -11,7 +11,7 @@
 
 (defn readr [prompt exit-code]
   (let [input (clojure.main/repl-read prompt exit-code)]
-    (if (= input ::tl)
+    (if (= input :tl)
       exit-code
       input)))
 
